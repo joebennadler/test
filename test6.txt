@@ -2,3 +2,5 @@ hello test6
 hello again from 6
 change June 4
 change June 25
+
+staged change but not commited, dir7
