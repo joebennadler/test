@@ -1,2 +1,6 @@
 Hello test4 file here
+<<<<<<< HEAD
+Dir 6 change in test4
+=======
 June 25 change test4
+>>>>>>> da2db381c72b0561cda14cff1828e0f95f70c91a
