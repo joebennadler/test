@@ -6,4 +6,9 @@ hello5
 hello6
 hello7
 
+<<<<<<< HEAD
 a change in dir6
+=======
+
+hello8
+>>>>>>> fd6d0e85fc7e9ba6ddaf79d7a68ebb65b0114109
