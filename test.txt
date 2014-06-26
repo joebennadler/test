@@ -5,3 +5,5 @@ hello4
 hello5
 hello6
 hello7
+
+a change in dir6
